@@ -1,0 +1,14 @@
+.event-details-container {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .event-details-container h2 {
+    margin-bottom: 30px;
+  }
+  
+  .event-details-container .btn {
+    margin-top: 20px;
+  }
+  
+  
